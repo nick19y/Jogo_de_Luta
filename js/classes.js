@@ -8,7 +8,7 @@ class Sprite{
         // positoin e imgSrc são propriedades
         // parâmetros position e velocity definidos para que cada "sprite" tenha posições diferentes
         // propriedade que fará associação com a posição colocada na tela
-        // this é sempre usado em uma função para conter o valor que invoca o parâmetro, no caso seria position e velocity
+        // this é sempre usado para fazer referência a um objeto
         this.position = position;
 
         this.width = 50;
