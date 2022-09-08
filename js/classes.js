@@ -7,13 +7,10 @@ class Sprite{
 
         this.width = 50;
         
-        // altura do personagem
         this.height = 150;
 
-        // criação da propriedade imagem
         this.image = new Image();
         
-        // fonte da imagem
         this.image.src = imageSrc;
 
         this.scale = scale;
