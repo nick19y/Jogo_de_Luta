@@ -6,4 +6,6 @@ https://app.netlify.com/sites/nicolasdegodoi-fighting-game/overview
 
 
 W A D e setas fazem o movimento
+
+
 enter e barra atacam 
