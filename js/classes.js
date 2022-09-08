@@ -60,8 +60,6 @@ class Sprite{
     }
 
 
-
-    // método criado
     update(){
         this.draw();
         this.animateFrames();
